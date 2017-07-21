@@ -1,0 +1,1 @@
+connstr = 'redshift+psycopg2://<username>:<password>@<your cluster>.redshift.amazonaws.com:5439/dev'
